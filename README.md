@@ -14,4 +14,4 @@ Bangla
 
 # Favourite restaurants
 
-Italian
+Italian and indian 
